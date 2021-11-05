@@ -64,7 +64,6 @@ if (number3>max) max = number3;
 Console.WriteLine(max);*/
 
 /* //5. Написать программу вычисления значения функции y=f(a)
-
  int y( int a);
  {
 return a*a*a;
@@ -90,7 +89,6 @@ for (int i = -N; i <= N; i++)
     Console.WriteLine(i);
 }*/
 /*
-
 //8. Показать четные числа от 1 до N
 int N = 26;
 for (int i = 1; i <= N; i++)
@@ -109,6 +107,3 @@ for (int i = 1; i <= N; i++)
 int number= 212;
  string text = Convert.ToString(number);
  Console.WriteLine (text[1]);*/
-
-
-
